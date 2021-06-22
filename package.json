@@ -1,6 +1,8 @@
 {
   "name": "typescript-starter",
   "version": "1.0.0",
+  "author": "Kelian B.",
+  "license": "MIT",
   "description": "TypeScript boilerplate",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -8,8 +10,6 @@
     "start": "npm run dev",
     "build": "webpack --config webpack.prod.js"
   },
-  "author": "Kelian B.",
-  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
