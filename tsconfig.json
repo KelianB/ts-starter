@@ -16,7 +16,7 @@
     "resolveJsonModule": true,
     "removeComments": true,
     "skipLibCheck": true,
-    "noImplicitAny": false,    
+    "noImplicitAny": false,
     "noUnusedLocals": true,
     "noFallthroughCasesInSwitch": true,
     "forceConsistentCasingInFileNames": true,
